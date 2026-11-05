@@ -1,0 +1,6 @@
+{
+  "name": "Pequeno Baterista - Aprenda a Tocar",
+  "description": "Curso interativo passo a passo para crianças aprenderem a tocar bateria utilizando a bateria eletrônica de silicone de 9 pads e comparando com uma bateria real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
